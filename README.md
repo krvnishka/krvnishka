@@ -25,6 +25,5 @@ Linux (CachyOS) - Linux (NixOS) - Windows 11
 <details>
 <summary> 🦴 stats</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krvnishka&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krvnishka&layout=compact)
+*IN PROGRESS*
 </details>
