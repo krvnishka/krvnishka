@@ -1,33 +1,26 @@
 # krvnishka (Kry) 💀
 
-🩸. Computer Science & Mathematics (24)  
+🩸. Computer Science & Mathematics (24) - UL FRI, UL FMF
 🩸. Focus: **computer graphics + game dev**, **bio/medical informatics**, **ML + statistics**, **CAGD**
 
 ## 🧠 featured workings
 
-- **Project Name** - one-line description  
-  `Python` - `C++` - `OpenGL` - *(demo link)* - *(repo link)*
-
-- **Project Name** - one-line description  
-  `Rust` - `wgpu` - *(repo link)*
-
-- **Project Name** - one-line description  
-  `PyTorch` - `SQL` - *(repo link)*
+*IN PROGRESS*
 
 ## 🫀 tools of the trade
 
 **languages:**  
-`Python` - `C/C++` - `C#` - `Java` - `Kotlin` . `JavaScript/TypeScript` - `SQL` - `Rust` - `R` - `MATLAB` - `Octave` - `R` - `Bash` - `Bash` - `Go` - `PHP` - `Lua` - `Haskell` - `OCaml`
+`Python` - `C/C++` - `C#` - `Java` - `Kotlin` . `JavaScript/TypeScript` - `SQL` - `Rust` - `MATLAB` - `Octave` - `R` - `Bash` - `Go` - `PHP` - `Lua` - `Haskell` - `OCaml`
 
 **tools:**  
 Git - GitHub - VS Codium/VS Code - PyCharm - DBeaver - Insomnia - Godot - Unity - Unreal Engine
 
 **systems:**  
-Linux (CachyOS) - Windows 11 - NixOS
-
+Linux (CachyOS) - Linux (NixOS) - Windows 11
 
 ## 🫁 reach me
-- *(email / linkedin / site)*
+- [GitHub](https://github.com/krvnishka)
+- [Bluesky](https://bsky.app/profile/krvnishka.bsky.social)
 
 <details>
 <summary> 🦴 stats</summary>
