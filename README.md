@@ -1,7 +1,8 @@
 # krvnishka (Kry) 💀
 
-🩸. Computer Science & Mathematics (24) - UL FRI, UL FMF
-🩸. Focus: **computer graphics + game dev**, **bio/medical informatics**, **ML**, **statistics**, **CAGD**, **theory of computation / computational complexity**
+🩸. Computer Science & Mathematics (25) - UL FRI, UL FMF
+🩸. Young Researcher at NIB
+🩸. Focus: **bio/medical informatics**, **machine learning**, **computer graphics + game dev**, **statistics**, **CAGD**, **theory of computation / computational complexity**
 
 ## 🧠 featured workings
 
